@@ -1,0 +1,77 @@
+body {
+    background-color: rgb(255, 199, 64);
+    font-family: "Open Sans", Arial;
+  }
+  
+  form {
+    line-height: 27px;
+  }
+  
+  h2 {
+    font-size: 20px;
+  }
+
+  form label {
+    font-weight: bold;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+  form input[type="text"],
+  form input[type="number"],
+  form select,
+  datalist,
+  form textarea {
+      width: 50%;
+      padding: 8px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+     
+  }
+  
+  
+  
+  #main {
+    background-color: rgba(255,255,255,0.8);
+    text-align: center;
+    height: 80vh;
+    border-radius: 15px;
+    margin: 2% 10%;
+    overflow: auto;
+  }
+  
+  
+  #story {
+    padding: 0 3%;
+  }
+  
+  #top {
+    background-color: rgb(255, 255, 255);
+    margin: 2% 10%;
+    border-radius: 15px;
+  }
+  
+  #top img {
+    display: block;
+    width: 35%;
+    margin: 0 auto;
+  }
+  
+  .italics {
+    font-style: italic;
+  }
+  
+  .word {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
+  form input[type="submit"] {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 20px;
+}

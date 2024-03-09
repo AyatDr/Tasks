@@ -1,2 +1,2 @@
 # Tasks
-This repo captures tasks from my internship, showcasing hands-on learning and contributions.
+This repository documents tasks completed during my internship, illustrating practical learning experiences and contributions. Using HTML, CSS, JavaScript, and React, it showcases skills developed in web development. Each task represents a learning opportunity, demonstrating problem-solving abilities and collaborative efforts. Detailed descriptions, code snippets, and project demos offer insights into achievements and contributions throughout the internship.
